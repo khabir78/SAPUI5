@@ -16,8 +16,8 @@ sap.ui.jsview("zui5_git_test.main", {
  		return new sap.m.Page({
 			title: "Git Test",
 			content: [
-			          new sap.m.Text({text: "Hello!"}),
-			          new sap.m.Text({text: "Hello2!"})
+			          new sap.m.Label({text: "Greeting"}),
+			          new sap.m.Text({text: "Hello World!"})
 			          
 			]
 		});
