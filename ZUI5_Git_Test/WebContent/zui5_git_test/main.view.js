@@ -18,6 +18,7 @@ sap.ui.jsview("zui5_git_test.main", {
 			content: [
 			          new sap.m.Text({text: "Hello!"}),
 			          
+			          new sap.m.Text({text: "Hello!"}),
 			]
 		});
 	}
