@@ -21,6 +21,7 @@ sap.ui.jsview("zui5_git_test.main", {
 			          new sap.m.Text({text: "Hello!"}),
 			          
 			          //  Test Kommentar 
+			          new sap.m.Text({text: "Felix"}),
 			]
 		});
 	}
