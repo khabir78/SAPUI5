@@ -18,13 +18,10 @@ sap.ui.jsview("zui5_git_test.main", {
 			content: [
 			          new sap.m.Text({text: "Hello!"}),
 			          
-			          new sap.m.Text({text: "Hello!"}),
-			          
+			          new sap.m.Text({text: "Hello!"}),			          
 
 			          //  Test Kommentar Heir kann mann viel shcreiben
-			          new sap.m.Text({text: "Felix"}),
-			          
-			          //neuer Kommentar  Testing 
+			     
 			]
 		});
 	}
