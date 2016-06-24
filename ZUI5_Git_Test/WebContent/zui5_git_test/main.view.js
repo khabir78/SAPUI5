@@ -26,13 +26,10 @@ sap.ui.jsview("zui5_git_test.main", {
 			          new sap.m.Label({text: "This is a Label"}),			         
 
 
-			          new sap.m.Label({text: "This is a Label"}),
 			          
 			          
 
-			          new sap.m.Text({text: "GIT"}),  
-			          
-			          //neuer Test			          
+          
 
 			          //  Test Kommentar Heir kann mann viel shcreiben
 			          
