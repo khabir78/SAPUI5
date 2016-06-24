@@ -25,7 +25,9 @@ sap.ui.jsview("zui5_git_test.main", {
 			          new sap.m.Text({text: "Hello!"}),        
 			          
 			          new sap.m.Text({text: "Hello!"}),  
-
+			          
+			          //neuer Test
+			          
 			          //  Test Kommentar Heir kann mann viel shcreiben
 			          
 			     
