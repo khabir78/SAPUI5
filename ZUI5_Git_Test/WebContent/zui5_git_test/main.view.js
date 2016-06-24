@@ -13,18 +13,16 @@ sap.ui.jsview("zui5_git_test.main", {
 	* @memberOf zui5_git_test.main
 	*/ 
 	createContent : function(oController) {
+		
+		var oModel;
+		
  		return new sap.m.Page({
 			title: "Git Test",
 			content: [
 
 			          new sap.m.Text({text: "Hello!"}),  
 			          
-			          new sap.m.Label({text: "This is a Label"}),
-			          		          
-
-			          new sap.m.Text({text: "Hello!"}),        
-			          
-			          new sap.m.Text({text: "Hello!"}),  
+			          new sap.m.Label({text: "This is a Label"}),			         
 
 			          //  Test Kommentar Heir kann mann viel shcreiben
 			          
