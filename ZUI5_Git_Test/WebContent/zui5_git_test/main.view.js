@@ -20,20 +20,16 @@ sap.ui.jsview("zui5_git_test.main", {
 			title: "Git Test",
 			content: [
 
-			          new sap.m.Text({text: "Hello!"}),  
-			          
+			          new sap.m.Text({text: "Hello!"}),  			          
 
-<<<<<<< HEAD
+
 			          new sap.m.Label({text: "This is a Label"}),
-=======
+
 			          new sap.m.Label({text: "This is a Label"}),			         
 
-			          new sap.m.Text({text: "Hello!"}),  
-			          
+			          new sap.m.Text({text: "Hello!"}),  			          
 
 			          new sap.m.Label({text: "This"}),
-			          
->>>>>>> origin/master
 			          
 			          		//  Hello comment
 
@@ -42,7 +38,6 @@ sap.ui.jsview("zui5_git_test.main", {
 			          new sap.m.Label({text: "This is a Label"}),
 			          
 			          //  Test Kommentar Heir kann mann viel shcreiben
-			          
 			     
 			]
 		});
