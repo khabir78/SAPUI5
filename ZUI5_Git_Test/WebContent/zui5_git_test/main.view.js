@@ -31,9 +31,9 @@ sap.ui.jsview("zui5_git_test.main", {
 
 			          new sap.m.Label({text: "This"}),
 			          
-			          		//  Hello comment
+			          		//  Hello comment new comment ++++++
 
-			          new sap.m.Text({text: "Hello!"}),  			          
+			          new sap.m.Text({text: "Hello!"})  			          
 
 			          //  Test Kommentar Heir kann mann viel shcreiben
 			     
